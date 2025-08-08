@@ -203,3 +203,6 @@ const LocationSelector = () => {
 };
 
 export default LocationSelector;
+
+<img width="1173" height="280" alt="image" src="https://github.com/user-attachments/assets/5938f111-2782-4f17-ac09-deed33adee56" />
+
